@@ -22,11 +22,30 @@ body{
 .col-lg-7{
   display: flex;
   flex-wrap: wrap;
-  flex-basis: 400px;
+  flex-basis: 500px;
+  padding: 0;
+  margin-left: 15%
+}
+.dogimg{
+  border-radius: 50%;
+  height: 100px;
+  margin-top: 5px;
+  margin-bottom: 2px;
+}
+.display-4{
+  font-size: 50px;
+}
+.name-place{
+  font-size: 18px;
+  font-weight: 300
 }
 .rounded-lg-3{
   padding-top: 5px;
   padding-bottom: 0;
+}
+.display-5{
+  font-size: 30px;
+  font-weight: 600
 }
 .icon-square {
   width: 3rem;
